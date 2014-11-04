@@ -1,1 +1,1 @@
-add_lunch_combo cm_sprout-userdebug
+add_lunch_combo mahdi_sprout-userdebug
